@@ -1,0 +1,58 @@
+﻿<Page
+    x:Class="SpaceShooter.LoginRegister"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SpaceShooter"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+
+        <Button x:Name="ReturnToLogin" Content="Return" Height="76" Width="164" Click="{x:Bind LoginViewModel.Return}" Margin="10,10,0,0" VerticalAlignment="Top" Visibility="Collapsed" />
+        
+        
+        <Canvas x:Name="StartScreen" Visibility="Visible">
+            <TextBlock Text=" Welcome to Space Shooter" FontSize="66" TextWrapping="Wrap" Margin="326,0,357,904"/>
+            <TextBlock Text="Login" FontSize="66" TextWrapping="Wrap" Margin="326,251,958,653"/>
+            <TextBlock Text="Register" FontSize="66" TextWrapping="Wrap" Margin="902,251,345,653"/>
+            <Button Content="Login" Margin="319,431,0,0" VerticalAlignment="Top" Height="69" Width="176" Click="{x:Bind LoginViewModel.Login}"/>
+            <Button Content="Register" Margin="931,425,0,0" Height="69" Width="176" VerticalAlignment="Top" Click="{x:Bind LoginViewModel.Register}"/>
+        </Canvas>
+        
+      
+        
+        <Canvas Margin="10,10,0,0" Visibility="Collapsed" x:Name="RegisterScreen">
+            <TextBox FontSize="33" TextWrapping="Wrap" Height="47" Width="215" Canvas.Left="324" Canvas.Top="188" x:Name="RegisterUsername"/>
+            <TextBlock Text="Register" FontSize="77" TextWrapping="Wrap" Height="121" Width="274" Canvas.Left="613"/>
+            <TextBlock Text="Enter your username:" FontSize="33" Canvas.Left="10" Canvas.Top="188" Height="63" Width="330"/>
+            <TextBlock Text="Enter your password:" FontSize="33" Canvas.Left="10" Canvas.Top="328" Height="63" Width="330"/>
+            <TextBox FontSize="33" TextWrapping="Wrap" Height="47" Width="215" Canvas.Left="324" Canvas.Top="325" x:Name="RegisterPassword"/>
+
+            <TextBlock Text="Register your account" FontSize="33" Canvas.Top="505" Height="41" Width="330"/>
+            <Button Content="Button" Canvas.Top="554" Height="76" Width="339" Click="{x:Bind LoginViewModel.ConfirmAccount, Mode=OneWay}"/>
+            <TextBlock Text="" FontSize="33" x:Name="ErrorMessage" Canvas.Left="696" Canvas.Top="804"/>
+        </Canvas>
+
+
+
+        <Canvas Margin="10,10,0,0" Visibility="Collapsed" x:Name="LoginScreen">
+            <TextBox Text="" FontSize="33" TextWrapping="Wrap" Height="47" Width="215" Canvas.Left="324" Canvas.Top="188" x:Name="LoginUsername"/>
+            <TextBlock Text="Login" FontSize="77" TextWrapping="Wrap" Height="121" Width="274" Canvas.Left="613"/>
+            <TextBlock Text="Enter your username:" FontSize="33" Canvas.Left="10" Canvas.Top="188" Height="63" Width="330"/>
+            <TextBlock Text="Enter your password:" FontSize="33" Canvas.Left="10" Canvas.Top="328" Height="63" Width="330"/>
+            <TextBox Text="" FontSize="33" TextWrapping="Wrap" Height="47" Width="215" Canvas.Left="324" Canvas.Top="325" x:Name="LoginPassword"/>
+            <TextBlock Text="Login" FontSize="33" Canvas.Top="505" Height="41" Width="330"/>
+            <Button Content="Button" Canvas.Top="554" Height="76" Width="339" Click="{x:Bind LoginToMain}"/>
+           
+            
+
+            <TextBlock FontSize="33" x:Name="LoginErrorMessages" Canvas.Left="696" Canvas.Top="804"/>
+        </Canvas>
+      
+
+
+
+    </Grid>
+</Page>
