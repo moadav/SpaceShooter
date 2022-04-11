@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mohammed Ali Davami\\Desktop\\2dSpaceShooter\\2dSpaceShooter.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mohammed Ali Davami\\Desktop\\2dSpaceShooter\\2dSpaceShooter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mohammed Ali Davami\\Desktop\\2dSpaceShooter\\2dSpaceShooter.csproj",
+        "projectName": "2dSpaceShooter",
+        "projectPath": "C:\\Users\\Mohammed Ali Davami\\Desktop\\2dSpaceShooter\\2dSpaceShooter.csproj",
+        "packagesPath": "C:\\Users\\Mohammed Ali Davami\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mohammed Ali Davami\\Desktop\\2dSpaceShooter\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mohammed Ali Davami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.18362"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.18362": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.18362": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.10, )"
+            },
+            "Win2D.uwp": {
+              "target": "Package",
+              "version": "[1.25.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

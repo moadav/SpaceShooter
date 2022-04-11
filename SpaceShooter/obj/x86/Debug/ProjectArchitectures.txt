@@ -1,0 +1,2 @@
+C:\Users\Mohammed Ali Davami\Desktop\SpaceShooter\SpaceShooter.MyModel\SpaceShooter.MyModel.csproj;x86
+C:\Users\Mohammed Ali Davami\Desktop\SpaceShooter\SpaceShooter\SpaceShooter.csproj;x86

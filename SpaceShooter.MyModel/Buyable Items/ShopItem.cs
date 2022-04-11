@@ -8,8 +8,7 @@ namespace SpaceShooter.MyModel
     /// <seealso cref="SpaceShooter.MyModel.Item" />
     public class ShopItem : Item
     {
-        private static readonly int healAmount = 2;
-        private readonly DeathScreen deathScreen = new DeathScreen();
+        private static readonly int HealAmount = 2;
         private static int ArmourPackBuylimit { get; set; } = 10;
 
         /// <summary>
@@ -52,8 +51,6 @@ namespace SpaceShooter.MyModel
         {
             ReturnNewHealth(ReturnHalfHealth());
         }
-
-
         /// <summary>
         /// Returns half health of the player
         /// </summary>
@@ -62,7 +59,7 @@ namespace SpaceShooter.MyModel
         /// </returns>
         private static double ReturnHalfHealth()
         {
-            return GameHud.HealthBar.Offset - healAmount;
+            return GameHud.HealthBar.Offset - HealAmount;
         }
         /// <summary>
         /// Returns the new health.

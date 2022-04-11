@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohammed Ali Davami\\OneDrive\\Desktop\\SpaceShooter\\SpaceShooter.LoginModel\\SpaceShooter.LoginModel.csproj": {}
+    "C:\\Users\\Mohammed Ali Davami\\Desktop\\SpaceShooter\\SpaceShooter.LoginModel\\SpaceShooter.LoginModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohammed Ali Davami\\OneDrive\\Desktop\\SpaceShooter\\SpaceShooter.LoginModel\\SpaceShooter.LoginModel.csproj": {
+    "C:\\Users\\Mohammed Ali Davami\\Desktop\\SpaceShooter\\SpaceShooter.LoginModel\\SpaceShooter.LoginModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohammed Ali Davami\\OneDrive\\Desktop\\SpaceShooter\\SpaceShooter.LoginModel\\SpaceShooter.LoginModel.csproj",
+        "projectUniqueName": "C:\\Users\\Mohammed Ali Davami\\Desktop\\SpaceShooter\\SpaceShooter.LoginModel\\SpaceShooter.LoginModel.csproj",
         "projectName": "SpaceShooter.LoginModel",
-        "projectPath": "C:\\Users\\Mohammed Ali Davami\\OneDrive\\Desktop\\SpaceShooter\\SpaceShooter.LoginModel\\SpaceShooter.LoginModel.csproj",
+        "projectPath": "C:\\Users\\Mohammed Ali Davami\\Desktop\\SpaceShooter\\SpaceShooter.LoginModel\\SpaceShooter.LoginModel.csproj",
         "packagesPath": "C:\\Users\\Mohammed Ali Davami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohammed Ali Davami\\OneDrive\\Desktop\\SpaceShooter\\SpaceShooter.LoginModel\\obj\\",
+        "outputPath": "C:\\Users\\Mohammed Ali Davami\\Desktop\\SpaceShooter\\SpaceShooter.LoginModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\Mohammed Ali Davami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

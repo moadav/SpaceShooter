@@ -1,0 +1,15 @@
+C:\Users\Mohammed Ali Davami\Desktop\2dSpaceShooter\obj\x86\Debug\2dSpaceShooter.csprojAssemblyReference.cache
+C:\Users\Mohammed Ali Davami\Desktop\2dSpaceShooter\obj\x86\Debug\App.g.i.cs
+C:\Users\Mohammed Ali Davami\Desktop\2dSpaceShooter\obj\x86\Debug\App.g.cs
+C:\Users\Mohammed Ali Davami\Desktop\2dSpaceShooter\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Mohammed Ali Davami\Desktop\2dSpaceShooter\obj\x86\Debug\MainPage.g.cs
+C:\Users\Mohammed Ali Davami\Desktop\2dSpaceShooter\obj\x86\Debug\SpillApp.g.i.cs
+C:\Users\Mohammed Ali Davami\Desktop\2dSpaceShooter\obj\x86\Debug\SpillApp.g.cs
+C:\Users\Mohammed Ali Davami\Desktop\2dSpaceShooter\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Mohammed Ali Davami\Desktop\2dSpaceShooter\obj\x86\Debug\App.xaml
+C:\Users\Mohammed Ali Davami\Desktop\2dSpaceShooter\obj\x86\Debug\MainPage.xaml
+C:\Users\Mohammed Ali Davami\Desktop\2dSpaceShooter\obj\x86\Debug\SpillApp.xaml
+C:\Users\Mohammed Ali Davami\Desktop\2dSpaceShooter\obj\x86\Debug\App.xbf
+C:\Users\Mohammed Ali Davami\Desktop\2dSpaceShooter\obj\x86\Debug\MainPage.xbf
+C:\Users\Mohammed Ali Davami\Desktop\2dSpaceShooter\obj\x86\Debug\SpillApp.xbf
+C:\Users\Mohammed Ali Davami\Desktop\2dSpaceShooter\obj\x86\Debug\XamlSaveStateFile.xml
