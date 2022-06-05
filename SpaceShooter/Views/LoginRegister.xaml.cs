@@ -43,6 +43,7 @@ namespace SpaceShooter
         /// </summary>
         /// <param name="sender">The source of the event.</param>
         /// <param name="e">The <see cref="RoutedEventArgs"/> instance containing the event data.</param>
+
         private async void Page_LoadedAsync(object sender, RoutedEventArgs e) =>
             await ApiData.GetAllUsersAsync();
 

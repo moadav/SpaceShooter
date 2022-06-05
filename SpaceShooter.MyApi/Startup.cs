@@ -32,15 +32,15 @@ namespace SpaceShooter.MyApi
         {
             services.AddControllers();
 
-            var sqlConnBuilder = new SqlConnectionStringBuilder
-            {
-                DataSource = "Donau.hiof.no",
-                InitialCatalog = "mohammed",
-                UserID = "mohammed",
-                Password = "y6DNU=7;"
-            };
+            //var sqlConnBuilder = new SqlConnectionStringBuilder
+            //{
+            //    DataSource = "Donau.hiof.no",
+            //    InitialCatalog = "mohammed",
+            //    UserID = "mohammed",
+            //    Password = "y6DNU=7;"
+            //};
 
-            services.AddDbContext<UserLoginContext>(options => options.UseSqlServer(sqlConnBuilder.ConnectionString));
+            services.AddDbContext<UserLoginContext>(options => options.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=MyDatab12313ase;Trusted_Connection=True;"));
         }
 
 

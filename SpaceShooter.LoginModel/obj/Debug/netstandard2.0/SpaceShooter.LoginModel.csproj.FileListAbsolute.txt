@@ -25,3 +25,13 @@ C:\Users\Mohammed Ali Davami\Desktop\SpaceShooter\SpaceShooter.LoginModel\obj\De
 C:\Users\Mohammed Ali Davami\Desktop\SpaceShooter\SpaceShooter.LoginModel\obj\Debug\netstandard2.0\SpaceShooter.LoginModel.csproj.CoreCompileInputs.cache
 C:\Users\Mohammed Ali Davami\Desktop\SpaceShooter\SpaceShooter.LoginModel\obj\Debug\netstandard2.0\SpaceShooter.LoginModel.dll
 C:\Users\Mohammed Ali Davami\Desktop\SpaceShooter\SpaceShooter.LoginModel\obj\Debug\netstandard2.0\SpaceShooter.LoginModel.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\SpaceShooter\SpaceShooter.LoginModel\bin\Debug\netstandard2.0\SpaceShooter.LoginModel.deps.json
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\SpaceShooter\SpaceShooter.LoginModel\bin\Debug\netstandard2.0\SpaceShooter.LoginModel.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\SpaceShooter\SpaceShooter.LoginModel\bin\Debug\netstandard2.0\SpaceShooter.LoginModel.pdb
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\SpaceShooter\SpaceShooter.LoginModel\obj\Debug\netstandard2.0\SpaceShooter.LoginModel.csproj.AssemblyReference.cache
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\SpaceShooter\SpaceShooter.LoginModel\obj\Debug\netstandard2.0\SpaceShooter.LoginModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\SpaceShooter\SpaceShooter.LoginModel\obj\Debug\netstandard2.0\SpaceShooter.LoginModel.AssemblyInfoInputs.cache
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\SpaceShooter\SpaceShooter.LoginModel\obj\Debug\netstandard2.0\SpaceShooter.LoginModel.AssemblyInfo.cs
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\SpaceShooter\SpaceShooter.LoginModel\obj\Debug\netstandard2.0\SpaceShooter.LoginModel.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\SpaceShooter\SpaceShooter.LoginModel\obj\Debug\netstandard2.0\SpaceShooter.LoginModel.dll
+C:\Users\Mohammed Ali Davami\OneDrive\Desktop\SpaceShooter\SpaceShooter.LoginModel\obj\Debug\netstandard2.0\SpaceShooter.LoginModel.pdb
