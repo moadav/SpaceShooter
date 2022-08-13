@@ -2,7 +2,7 @@
 2d spaceshooter game inspired by space shooter games
 
 # Requirements
-screen with 1920 x 1080
+Screen with 1920 x 1080
 
 # Setup and start
  - Open up "Package Manager Console"
