@@ -1,7 +1,10 @@
 # SpaceShooter
 2d spaceshooter game inspired by space shooter games
 
-#Setup and start
+# Requirements
+screen with 1920 x 1080
+
+# Setup and start
  - Open up "Package Manager Console"
  - Make sure the default project in PMC is SpaceShooter.MyApi
  - Write "update-database" in PMC
