@@ -3,6 +3,7 @@
 
 # Requirements
 Screen with 1920 x 1080
+.NET CORE 3.1
 
 # Setup and start
  - Open up "Package Manager Console"
